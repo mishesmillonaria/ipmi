@@ -9,7 +9,11 @@ liminal = loadImage("Captura de pantalla 2024-04-23 153234.jpg");
 void draw(){
 image(liminal, 0, 0, 400, 400);
 
-//Pelo.
+//Michelle Aylín
+//González,
+//Comisión tres,
+//Legajo 119048/0.
+//Este es el pelo.
 fill(62, 26, 5);
 stroke(0);
 strokeWeight(2);
