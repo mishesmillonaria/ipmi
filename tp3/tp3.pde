@@ -3,7 +3,11 @@ Legajo 119048/0,
 Comisión tres.
 
 Enlace del video:  https://www.youtube.com/watch?v=KBYKd8Qb5rA
-Gracias por ser mi profe. <333 */
+Gracias por ser mi profe. <333
+
+Lo de rancio lo digo en broma, en realidad no creía que
+iba a poder corregirlo. c:
+*/
 
 PImage OpArt;    
 PFont fuente;
