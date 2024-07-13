@@ -26,8 +26,5 @@ void dibujarEllipses(int posX_, int posY_){
   strokeWeight(2);
   ellipse(posX_, posY_, 28, 28);
   ellipse(posX_, posY_, e*28, e*28);
-  
-  println("posX="+posX_);
-  println("posY="+posY_);
 }
 }
